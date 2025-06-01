@@ -1,0 +1,131 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #eef2f5;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 90%;
+    max-width: 600px;
+}
+
+h2 {
+    color: #007bff;
+    margin-bottom: 25px;
+}
+
+h3 {
+    color: #5a6268;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#groupSetup, #gameArea, #statusArea, .control-buttons {
+    margin-bottom: 25px;
+}
+
+input[type="text"]#groupNameInput {
+    padding: 12px 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    width: calc(100% - 32px); 
+    font-size: 16px;
+}
+
+button {
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button:active {
+    transform: translateY(1px);
+}
+
+#setGroupButton {
+    background-color: #28a745; 
+}
+#setGroupButton:hover {
+    background-color: #218838;
+}
+
+#bellButton {
+    background-color: #dc3545; 
+    color: white;
+    border-radius: 50%; 
+    width: 160px;
+    height: 160px;
+    font-size: 22px;
+    font-weight: bold;
+    box-shadow: 0 4px 10px rgba(220, 53, 69, 0.4);
+    margin-top: 10px;
+}
+#bellButton:hover {
+    background-color: #c82333;
+}
+#bellButton:disabled {
+    background-color: #6c757d; 
+    cursor: not-allowed;
+    box-shadow: none;
+}
+
+#messageArea {
+    margin-top: 15px;
+    font-weight: bold;
+    min-height: 20px; 
+}
+
+#statusArea {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+#orderList {
+    list-style-type: decimal;
+    padding-left: 25px;
+    text-align: left;
+    margin: 0;
+}
+
+#orderList li {
+    padding: 6px 0;
+    border-bottom: 1px dashed #dee2e6;
+    font-size: 15px;
+}
+#orderList li:last-child {
+    border-bottom: none;
+}
+
+#timerMessage {
+    font-style: italic;
+    color: #888;
+    font-size: 0.9em;
+    margin-top: 10px;
+}
+
+#resetButton {
+    background-color: #007bff; 
+}
+#resetButton:hover {
+    background-color: #0056b3;
+}
