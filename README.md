@@ -44,7 +44,7 @@ Berikut adalah panduan singkat untuk menggunakan aplikasi Bel Cerdas Cermat Onli
 ### Untuk Juri/Operator Pertandingan 🧑‍⚖️:
 
 1.  🔄 **Mulai Ronde Baru (Reset):**
-    * Setelah satu pertanyaan atau sesi penjawaban selesai, klik tombol **"Reset Ronde (Master Juri)"** (atau tombol serupa yang tersedia).
+    * Setelah satu pertanyaan atau sesi penjawaban selesai, klik tombol **"Reset Ronde (Juri)"** (atau tombol serupa yang tersedia).
     * Tindakan ini akan mengosongkan daftar urutan penekan bel dari ronde sebelumnya.
     * Semua tombol bel peserta akan otomatis aktif kembali, siap untuk pertanyaan berikutnya.
 2.  👀 **Pantau Urutan:** Juri dapat menggunakan daftar urutan yang tampil untuk secara adil menentukan kelompok mana yang berhak menjawab pertanyaan.
