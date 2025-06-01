@@ -27,6 +27,8 @@ Aplikasi ini dibangun untuk mengatasi kebutuhan akan sistem bel yang mudah diaks
 ## 📖 Petunjuk Penggunaan Bel
 
 Berikut adalah panduan singkat untuk menggunakan aplikasi Bel Cerdas Cermat Online:
+![image](https://github.com/user-attachments/assets/b5e327c2-3942-4448-9249-0ce8904d3857)
+
 
 ### Untuk Peserta/Kelompok 🙋‍♀️🙋‍♂️:
 
