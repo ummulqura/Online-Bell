@@ -54,4 +54,4 @@ Project ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE.txt` untuk de
 
 ---
 
-**Copyright (c) 2025 Ummul Qura# Online-Bell
+**Copyright (c) 2025 Ummul Qura
